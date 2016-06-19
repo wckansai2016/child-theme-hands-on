@@ -21,3 +21,21 @@ WordCamp Kansai 2016 の子テーマ作成ハンズオンの資料です。
 + CSSでカスタマイズしてみよう
   + 編集方法
   + style.cssにコードを追加しよう
+
+## - 事前準備 -
+
+このハンズオンではMacではMAMP、WindowsではXAMPPを推奨しています。
+MAMPもしくはXAMPP環境にWordPressをインストールし、  
+管理画面にログインできるまで準備しておいてください。
+
+また、テキストエディタが必要です。
+Sublime TextやAtom、Dreamweaverなど既に使っているものがある場合は  
+それで問題ありません。
+
+テキストエディタがよく分からない方は、Adobe製の[Brackets](http://brackets.io/)をインストールしてください。
+
+## - 最初にやること -
+
+1. MAMPもしくはXAMPPの起動。
++ WordPressの管理画面にログイン。
++ テキストエディタでWordPressの「themes」フォルダ以下を開いてください。
