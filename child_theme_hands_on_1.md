@@ -129,7 +129,7 @@ function theme_enqueue_styles() {
 ```
 
 ちなみに、ネット上ではstyle.cssで親テーマのstyle.cssを  
-読み込む方法が紹介されていることがありますが、今は*非推奨*です。
+読み込む方法が紹介されていることがありますが、今は**非推奨**です。
 
 
 ```
@@ -143,10 +143,15 @@ function theme_enqueue_styles() {
 ## 子テーマを有効化！
 
 「管理画面 > 外観 > テーマ」から、「Twenty Sixteen Child」の有効化をクリック。  
+
+<img src="https://github.com/wckansai2016/child-theme-hands-on/blob/doc/data/images/child-theme-handson-img1" width="600px">
+
+<img src="data/images/child-theme-handson-img1" width="600px">
+
 有効化したらサイトの確認をしましょう。
 
 ## 試しに投稿
 
-サンプルテキスト
+[サンプルテキスト](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/data/text/dummytext.md)
 
-サンプル画像
+[サンプル画像](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/data/images/wc-thumbnail.png)
