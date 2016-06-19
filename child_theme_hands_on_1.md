@@ -150,19 +150,19 @@ function theme_enqueue_styles() {
 
 [サンプル画像](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/data/images/wc-thumbnail.png)
 
-## 親テーマのインストールについて
+## ※親テーマのインストールについて
 
 作ったテーマのアップロードの方法は2つあります。  
 その方法によって親テーマが自動的にインストールされる場合とされない場合があります。
 
-1. 管理画面からzipファイルをアップロードする方法
+### 1.管理画面からzipファイルをアップロードする方法
 
 管理画面の「外観 > テーマ > 新規追加 > テーマのアップロード」から、
 zipファイルにした子テーマをアップロードする場合は、親テーマがなくても自動的にインストールされます。
 
 <img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img2.png" width="600px">
 
-2. FTPでアップロードする方法
+### 2.FTPでアップロードする方法
 
 サーバーのthemesフォルダ内に子テーマをアップロードする方法です。  
 この方法は親テーマを自分でインストールしておく必要があります。
@@ -172,3 +172,9 @@ zipファイルにした子テーマをアップロードする場合は、親�
 <img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img3.png" width="600px">
 
 このハンズオンで紹介している手順は、ローカル環境で2の方法をやっているようなものなので、親テーマのインストールが必要です。
+
+## カスタマイザーで カスタマイズしてみよう
+
+次はカスタマイザーを使ってカスタマイズしてみます。
+
+[カスタマイザーで カスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_2.md)
