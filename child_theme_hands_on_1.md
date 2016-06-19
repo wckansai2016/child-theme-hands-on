@@ -144,9 +144,7 @@ function theme_enqueue_styles() {
 
 「管理画面 > 外観 > テーマ」から、「Twenty Sixteen Child」の有効化をクリック。  
 
-<img src="https://github.com/wckansai2016/child-theme-hands-on/blob/doc/data/images/child-theme-handson-img1" width="600px">
-
-<img src="data/images/child-theme-handson-img1" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img1.png" width="600px">
 
 有効化したらサイトの確認をしましょう。
 
