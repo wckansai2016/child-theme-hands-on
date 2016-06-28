@@ -4,11 +4,11 @@
 
 ### 目次
 
-* [1-1.子テーマフォルダの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#1-1子テーマフォルダの作成)
-* [1-2.style.cssの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#1-2stylecssの作成)
-* [1-3.functions.phpの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#1-3functionsphpの作成)
-* [1-4. 子テーマを有効化！](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#子テーマを有効化)
-* [1-5. 試しに投稿](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#試しに投稿)
+* [1-1.子テーマフォルダの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#1-1子テーマフォルダの作成)
+* [1-2.style.cssの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#1-2stylecssの作成)
+* [1-3.functions.phpの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#1-3functionsphpの作成)
+* [1-4. 子テーマを有効化！](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#子テーマを有効化)
+* [1-5. 試しに投稿](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#試しに投稿)
 
 ## 1-1.子テーマフォルダの作成
 
@@ -144,15 +144,15 @@ function theme_enqueue_styles() {
 
 「管理画面 > 外観 > テーマ」から、「Twenty Sixteen Child」の有効化をクリック。  
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img1.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img1.png" width="600px">
 
 有効化したらサイトの確認をしましょう。
 
 ## 1-5. 試しに投稿
 
-[サンプルテキスト](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/data/text/dummytext.md)
+[サンプルテキスト](https://github.com/wckansai2016/child-theme-hands-on/blob/master/data/text/dummytext.md)
 
-[サンプル画像](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/data/images/wc-thumbnail.png)
+[サンプル画像](https://github.com/wckansai2016/child-theme-hands-on/blob/master/data/images/wc-thumbnail.png)
 
 ## ※親テーマのインストールについて
 
@@ -164,7 +164,7 @@ function theme_enqueue_styles() {
 管理画面の「外観 > テーマ > 新規追加 > テーマのアップロード」から、
 zipファイルにした子テーマをアップロードする場合は、親テーマがなくても自動的にインストールされます。
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img2.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img2.png" width="600px">
 
 ### 2.FTPでアップロードする方法
 
@@ -173,7 +173,7 @@ zipファイルにした子テーマをアップロードする場合は、親�
 
 親テーマがないとエラーがでます。
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img3.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img3.png" width="600px">
 
 このハンズオンで紹介している手順は、ローカル環境で2の方法をやっているようなものなので、親テーマのインストールが必要です。
 
@@ -181,4 +181,4 @@ zipファイルにした子テーマをアップロードする場合は、親�
 
 次はカスタマイザーを使ってカスタマイズしてみます。
 
-[カスタマイザーで カスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_2.md)
+[カスタマイザーで カスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_2.md)

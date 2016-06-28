@@ -6,12 +6,12 @@ CSSを編集すれば、カスタマイザーではできない自由なカス�
 
 ### 目次
 
-* [CSSを書くところ](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#cssを書くところ)
-* [CSSでカスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#cssでカスタマイズしてみよう-1)
-  * [1.枠線が何色か調べてみる](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#1枠線が何色か調べてみる)
-  * [2.サイトタイトルの色を枠線の色と同じ色にする](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#2サイトタイトルの色を枠線の色と同じ色にする)
-  * [3.本文中の2カラムを1カラムに](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#3本文中の2カラムを1カラムに)
-  * [4.時間があれば、自由にカスタマイズしましょう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#4時間があれば自由にカスタマイズしましょう)
+* [CSSを書くところ](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_3.md#cssを書くところ)
+* [CSSでカスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_3.md#cssでカスタマイズしてみよう-1)
+  * [1.枠線が何色か調べてみる](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_3.md#1枠線が何色か調べてみる)
+  * [2.サイトタイトルの色を枠線の色と同じ色にする](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_3.md#2サイトタイトルの色を枠線の色と同じ色にする)
+  * [3.本文中の2カラムを1カラムに](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_3.md#3本文中の2カラムを1カラムに)
+  * [4.時間があれば、自由にカスタマイズしましょう](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_3.md#4時間があれば自由にカスタマイズしましょう)
 
 ## CSSを書くところ
 
@@ -40,7 +40,7 @@ Template: twentysixteen
 
 すると、ブログ記事本文のタイトルに下線が追加されました。
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img20.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img20.png" width="600px">
 
 「border-bottom」は、下線を追加してくれるCSSプロパティです。
 
@@ -61,7 +61,7 @@ header {background-color: blue;}
 
 例えば、サイドメニューの黒い区切り線を、枠線の青色と同じ色にしたいとします。
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img21.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img21.png" width="600px">
 
 ### 1.枠線が何色か調べてみる
 
@@ -74,7 +74,7 @@ header {background-color: blue;}
 
 Chromeの開発者ツール
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img22.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img22.png" width="600px">
 
 また、調べたいところで右クリックをすると、  
 開発者ツールでそのタグが選択されます。
@@ -82,7 +82,7 @@ Chromeの開発者ツール
 今回調べたいのは枠線の色なので、枠線の上で右クリックをし、
 開発者ツールを開きます。
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img23.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img23.png" width="600px">
 
 するとbodyが選択された状態になりました。  
 枠線と思ってた色は、実はbodyに指定されていた色でした。
@@ -90,7 +90,7 @@ Chromeの開発者ツール
 さらにCSSの方をみると「body.custom-background」というセレクタに対して、  
 「background-color: #1e7bcc;」が指定されているのが分かります。
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img24.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img24.png" width="600px">
 
 青色はカラーコードでいうと「#1e7bcc」というのが分かりました。
 
@@ -101,7 +101,7 @@ Chromeの開発者ツール
 どのセレクタに指定すればいいかは、1でやったのと同じ要領で、  
 区切り線上で右クリックします。
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img25.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img25.png" width="600px">
 
 すると、sectionタグについた「widget」というclassに、  
 「border-top: 4px solid #1a1a1a;」が指定されているのが分かります。  
@@ -111,12 +111,12 @@ Chromeの開発者ツール
 
 開発者ツールを使えば、ブラウザ上でスタイルの変更を確認できます。
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img26.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img26.png" width="600px">
 
 変更したいところをクリックすると、編集ができて、  
 先ほど調べたカラーコード「#1e7bcc」に変更すると...
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img27.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img27.png" width="600px">
 
 ブラウザ上で色が変わりました。
 
@@ -142,11 +142,11 @@ CSSでカスタマイズをする時は、
 
 before
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img28.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img28.png" width="600px">
 
 after
 
-<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img29.png" width="600px">
+<img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/master/data/images/child-theme-handson-img29.png" width="600px">
 
 普段、CSSを触っていない人にとっては少し難しいかもしれませんが、  
 要領は先ほどと同じです。
