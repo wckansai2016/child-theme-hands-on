@@ -6,7 +6,7 @@ CSSを編集すれば、カスタマイザーではできない自由なカス�
 
 ### 目次
 
-* [CSSを書くところ](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#CSSを書くところ)
+* [CSSを書くところ](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#cssを書くところ)
 * [CSSでカスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#cssでカスタマイズしてみよう-1)
   * [1.枠線が何色か調べてみる](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#1枠線が何色か調べてみる)
   * [2.サイトタイトルの色を枠線の色と同じ色にする](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#2サイトタイトルの色を枠線の色と同じ色にする)
