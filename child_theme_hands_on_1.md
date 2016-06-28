@@ -7,8 +7,8 @@
 * [1-1.子テーマフォルダの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#1-1子テーマフォルダの作成)
 * [1-2.style.cssの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#1-2stylecssの作成)
 * [1-3.functions.phpの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#1-3functionsphpの作成)
-* [1-4. 子テーマを有効化！](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#子テーマを有効化)
-* [1-5. 試しに投稿](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#試しに投稿)
+* [1-4. 子テーマを有効化！](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#1-4-子テーマを有効化)
+* [1-5. 試しに投稿](https://github.com/wckansai2016/child-theme-hands-on/blob/master/child_theme_hands_on_1.md#1-5-試しに投稿)
 
 ## 1-1.子テーマフォルダの作成
 
