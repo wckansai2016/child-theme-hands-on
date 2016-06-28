@@ -27,15 +27,15 @@ Sublime TextやAtom、Dreamweaverなど既に使っているものがある場�
 
 ## - 目次 -
 
-1. 子テーマを作ってみよう
+1. [子テーマを作ってみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md)
   + 子テーマディレクトリの作成
   + style.cssの作成
   + functions.phpの作成
   + テーマの有効化
   + 試しに投稿してみよう
-+ カスタマイザーで カスタマイズしてみよう
++ [カスタマイザーで カスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_2.md)
   + カスタマイザーとは
   + カスタマイザーを使ってみよう
-+ CSSでカスタマイズしてみよう
++ [CSSでカスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md)
   + 編集方法
   + style.cssにコードを追加しよう

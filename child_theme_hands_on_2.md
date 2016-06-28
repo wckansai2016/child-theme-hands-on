@@ -144,3 +144,5 @@ PC表示は今まで見てきたものです。
 ## CSSで カスタマイズしてみよう
 
 次はCSSでカスタマイザーではできないカスタマイズをしてみます。
+
+[CSSでカスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md)
