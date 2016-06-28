@@ -4,7 +4,16 @@ CSSを編集すれば、カスタマイザーではできない自由なカス�
 
 **※CSSが分かる方は、自由にカスタマイズしてみましょう**
 
-## CSS編集のやりかた（CSS分からない人向け）
+### 目次
+
+* [CSSを書くところ](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#CSSを書くところ)
+* [CSSでカスタマイズしてみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#cssでカスタマイズしてみよう-1)
+  * [1.枠線が何色か調べてみる](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#1枠線が何色か調べてみる)
+  * [2.サイトタイトルの色を枠線の色と同じ色にする](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#2サイトタイトルの色を枠線の色と同じ色にする)
+  * [3.本文中の2カラムを1カラムに](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#3本文中の2カラムを1カラムに)
+  * [4.時間があれば、自由にカスタマイズしましょう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_3.md#4時間があれば自由にカスタマイズしましょう)
+
+## CSSを書くところ
 
 最初に作ったstyle.cssにコードを追加していきます。
 

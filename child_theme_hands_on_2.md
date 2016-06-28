@@ -6,7 +6,15 @@ CSSを修正する必要もありません。
 カスタマイザーの変更は、親テーマのアップデートに影響されません。  
 また、カスタマイザーで変更できる内容はテーマによって違います。
 
-## カスタマイザーを使ってみよう。
+### 目次
+
+* [カスタマイザーを使ってみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_2.md#カスタマイザーを使ってみよう)
+  * [1.ヘッダー画像を追加してみよう](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_2.md#1ヘッダー画像を追加してみよう)
+  * [2.Twentysixteenの枠線の色を変更](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_2.md#2twentysixteenの枠線の色を変更)
+  * [3.メニューの追加](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_2.md#3メニューの追加)
+  * [4.PC・タブレット・スマートフォンでの表示確認](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_2.md#4pcタブレットスマートフォンでの表示確認)
+
+## カスタマイザーを使ってみよう
 
 実際にカスタマイザーでカスタマイズしてみましょう。
 
@@ -15,11 +23,6 @@ CSSを修正する必要もありません。
 この画面が表示されたら準備OKです。
 
 <img src="https://raw.githubusercontent.com/wckansai2016/child-theme-hands-on/doc/data/images/child-theme-handson-img4.png" width="600px">
-
-#### やること
-
-* ヘッダー画像を追加してみよう
-* Twentysixteenの枠線の色を変更
 
 ### 1.ヘッダー画像を追加してみよう
 

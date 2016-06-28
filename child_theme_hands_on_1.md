@@ -2,13 +2,13 @@
 
 子テーマを作るのに必要なものは3つだけ
 
-### もくじ
+### 目次
 
 * [1-1.子テーマフォルダの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#1-1子テーマフォルダの作成)
 * [1-2.style.cssの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#1-2stylecssの作成)
 * [1-3.functions.phpの作成](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#1-3functionsphpの作成)
-* [子テーマを有効化！](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#子テーマを有効化)
-* [試しに投稿](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#試しに投稿)
+* [1-4. 子テーマを有効化！](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#子テーマを有効化)
+* [1-5. 試しに投稿](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/child_theme_hands_on_1.md#試しに投稿)
 
 ## 1-1.子テーマフォルダの作成
 
@@ -140,7 +140,7 @@ function theme_enqueue_styles() {
 @import url( '../twentysixteen/style.css' );
 ```
 
-## 子テーマを有効化！
+## 1-4. 子テーマを有効化！
 
 「管理画面 > 外観 > テーマ」から、「Twenty Sixteen Child」の有効化をクリック。  
 
@@ -148,7 +148,7 @@ function theme_enqueue_styles() {
 
 有効化したらサイトの確認をしましょう。
 
-## 試しに投稿
+## 1-5. 試しに投稿
 
 [サンプルテキスト](https://github.com/wckansai2016/child-theme-hands-on/blob/doc/data/text/dummytext.md)
 
